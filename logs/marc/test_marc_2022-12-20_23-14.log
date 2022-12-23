@@ -1,0 +1,16 @@
+Logging output to ./logs/marc/test_marc_2022-12-20_23-14.log
+Traceback (most recent call last):
+  File "main_marc_3.py", line 16, in <module>
+    from src.enviroment import DashCamEnv
+  File "/home/aiwc-2022-1/IJ/Accident/src/enviroment.py", line 7, in <module>
+    from src.data_transform import scales_to_point, norm_fix
+ModuleNotFoundError: No module named 'src.data_transform'
+Done!
+Logging output to ./logs/marc/test_marc_2022-12-20_23-14.log
+Traceback (most recent call last):
+  File "main_marc_3.py", line 16, in <module>
+    from src.enviroment import DashCamEnv
+  File "/home/aiwc-2022-1/IJ/Accident/src/enviroment.py", line 8, in <module>
+    from metrics.losses import fixation_loss
+ModuleNotFoundError: No module named 'metrics'
+Done!

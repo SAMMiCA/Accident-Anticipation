@@ -1,0 +1,8 @@
+Logging output to ./logs/marc/test_marc_2022-12-20_23-13.log
+Traceback (most recent call last):
+  File "main_marc_3.py", line 16, in <module>
+    from src.enviroment import DashCamEnv
+  File "/home/aiwc-2022-1/IJ/Accident/src/enviroment.py", line 6, in <module>
+    from src.TorchFovea import TorchFovea
+ModuleNotFoundError: No module named 'src.TorchFovea'
+Done!

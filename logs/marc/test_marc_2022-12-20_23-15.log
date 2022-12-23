@@ -1,0 +1,5 @@
+Logging output to ./logs/marc/test_marc_2022-12-20_23-15.log
+=> loaded checkpoint './output/marc/checkpoints/sac_epoch_40.pt'
+#####
+tensor(0.0201, device='cuda:0')
+Done!
